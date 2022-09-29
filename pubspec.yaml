@@ -34,7 +34,5 @@ flutter:
       android:
         package: com.revenuecat.purchases_flutter
         pluginClass: PurchasesFlutterPlugin
-      ios:
-        pluginClass: PurchasesFlutterPlugin
       macos:
         pluginClass: PurchasesFlutterPlugin
